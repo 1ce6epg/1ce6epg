@@ -65,7 +65,7 @@ I strongly believe in writing clean, maintainable code, optimizing for performan
 ---
 <div align="center">
   <h3>😄 Fun Fact</h3>
-  ![vibe](https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODE5NzIzMjIsIm5iZiI6MTc4MTk3MjAyMiwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA2MjAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNjIwVDE2MTM0MlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTJlZmQ3OGRkMTBkMmQ3YTJjYzI1MDhlNjk0YTVlMDAwZTUwYTIzMDJhNTVjYmQ1ZTI4NzRiNWMzNDJiMjkxNWQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.xzyLwjEEOQHIer4Yr9pQlWludiDE3YtHwJ-cEtvvXqU)
+  ![vibe](https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9)
   <i>"I debug with <code>Console.WriteLine()</code> and still forget the occasional semicolon. We all have our crosses to bear."</i>
   <br><br>
   Thanks for dropping by my profile! Feel free to star ⭐ any repos that catch your eye.
