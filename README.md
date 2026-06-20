@@ -65,7 +65,7 @@ I strongly believe in writing clean, maintainable code, optimizing for performan
 ---
 <div align="center">
   <h3>😄 Fun Fact</h3>
-  ![vibe](<a href="https://ibb.co/pq6VxxV"><img src="https://i.ibb.co/R8Gr99r/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" alt="242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" border="0"></a>)
+  [url=https://ibb.co/pq6VxxV][img]https://i.ibb.co/R8Gr99r/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif[/img][/url]
   <i>"I debug with <code>Console.WriteLine()</code> and still forget the occasional semicolon. We all have our crosses to bear."</i>
   <br><br>
   Thanks for dropping by my profile! Feel free to star ⭐ any repos that catch your eye.
