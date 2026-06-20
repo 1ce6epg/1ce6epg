@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm 1ce6epg (Maksim)!
 
 <div align="center">
-  <h3>Full-Stack Web & Windows Desktop Developer | C++ / C# Enthusiast 🚀</h3>
+  <h3>Full-Stack Web & Windows Desktop Developer | C++ / C# / Python Enthusiast 🚀</h3>
 </div>
 
 [![1ce6epg's Discord status](https://dsc-readme.tsuni.dev/api/user/610801473051295744?aboutMe=Full-Stack+Web+%26+Windows+Desktop+Developer+%7C+C%2B%2B+%2F+C%23+Enthusiast&theme=githubDark&width=368)](https://github.com/the-snesler/discord-github-preview)
