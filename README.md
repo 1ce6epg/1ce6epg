@@ -5,6 +5,7 @@
 </div>
 
 [![1ce6epg's Discord status](https://dsc-readme.tsuni.dev/api/user/610801473051295744?aboutMe=Full-Stack+Web+%26+Windows+Desktop+Developer+%7C+C%2B%2B+%2F+C%23+Enthusiast&theme=githubDark&width=368)](https://github.com/the-snesler/discord-github-preview)
+![snake](https://github.com/1ce6epg)
 
 ---
 ### 👨‍💻 About Me
