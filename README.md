@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm 1ce6epg (Maksim)!
+# 👋 Hey there, I'm 1ce6epg!
 
 <div align="center">
   <h3>Full-Stack Web & Windows Desktop Developer | C++ / C# / Python Enthusiast 🚀</h3>
